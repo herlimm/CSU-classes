@@ -1,1 +1,1 @@
-# CSU-MIS-480
+# CSU-MIS-480 Capstone Analysis
